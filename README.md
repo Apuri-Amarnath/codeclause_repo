@@ -44,12 +44,13 @@ Using the application:
 - **File Structure**
 
 
-## password_generator.py: The main file that contains the implementation of the password generator.
-## logo.ico: The icon file for the application window (ensure it is in the same directory as the script).
+**password_generator.py: The main file that contains the implementation of the password generator.**
+**logo.ico: The icon file for the application window (ensure it is in the same directory as the script).**
 
-**Notes**
+## Notes
 
 If no checkboxes are selected, the password will include uppercase letters, lowercase letters, digits, and special characters by default.
 The application uses a simple layout to provide an easy-to-use interface for generating secure passwords.
 Contributing
-4. **If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.**
+
+# If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
